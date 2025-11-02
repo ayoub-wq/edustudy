@@ -1,0 +1,5 @@
+{
+  "name": "StudySphere",
+  "description": "A web application for university students to share course materials, form study groups, and find study partners. All data is mocked for demonstration purposes.",
+  "requestFramePermissions": []
+}
